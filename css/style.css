@@ -1,12 +1,23 @@
 *{
     box-sizing: border-box;
     margin: 0px;
-    padding: 5px;
+    padding: 0px;
+}
+header{
+    background-color: white;
 }
 main{
     margin-left: 200px;
     margin-right: 200px;
-    background-color: lightyellow;
+    background-color: rgb(247, 247, 241);
+    padding-left: 50px;
+    padding-top: 20px;
+}
+div{
+    margin-bottom: 30px;
+}
+ul li{
+    padding: 10px;
 }
 .logo-text{
     font-size: 40px;
@@ -32,16 +43,18 @@ h3{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:dimgrey;
 }
-.point-list{
+li{
     list-style-type: none;
 }
-.check{
-    border:1px solid lightskyblue;
-    font-size: 15px;
-    color: lightskyblue;
+.symbol{
+    font-size: 10px;
     border-radius: 10px;
     padding: 2px;
     display: inline;
+}
+.check{
+    border:1px solid lightskyblue;
+    color: lightskyblue;
 }
 h4{
     display: inline-block;
@@ -53,48 +66,34 @@ h6{
     color: white;
     border-radius: 10px;
     background-color: skyblue;
-    padding: 2px;
+    padding: 5px;
+}
+.text{
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
 }
 .goals{
     border: 1px solid palevioletred;
-    color: white;
-    border-radius: 10px;
     background-color: palevioletred;
-    padding: 2px
 }
 .cross{
     border:1px solid red;
-    font-size: 15px;
     color: red;
-    border-radius: 10px;
-    padding: 2px;
-    display: inline;
 }
 .recruit{
     border: 1px solid green;
-    color: white;
-    border-radius: 10px;
     background-color: green;
-    padding: 2px
 }
 .mobile{
     border: 1px solid orangered;
-    color: white;
-    border-radius: 10px;
     background-color: orangered;
-    padding: 2px
 }
 .website{
     border: 1px solid plum;
-    color: white;
-    border-radius: 10px;
     background-color: plum;
-    padding: 2px
 }
 .sale{
     border: 1px solid greenyellow;
-    color: white;
-    border-radius: 10px;
     background-color: greenyellow;
-    padding: 2px
 }
