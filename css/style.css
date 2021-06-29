@@ -2,6 +2,45 @@
     font-size: 40px;
     font-family:Arial, Helvetica, sans-serif;
     display: inline-block;
-    font-weight: 40px;
-   
+}
+.button{
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding: 5px;
+}
+.task{
+    color: white;
+    background-color: lightskyblue;
+    display: inline;
+}
+.section{
+    color: lightgray;
+    display: inline-block;
+}
+h3{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:dimgrey;
+}
+.point-list{
+    list-style-type: none;
+}
+.check{
+    border:1px solid lightskyblue;
+    font-size: 15px;
+    color: lightskyblue;
+    border-radius: 10px;
+    padding: 2px;
+    display: inline;
+}
+h4{
+    display: inline-block;
+    color: dimgrey;
+}
+h6{
+    display: inline-block;
+    border: 1px solid skyblue;
+    color: white;
+    border-radius: 10px;
+    background-color: skyblue;
+    padding: 2px;
 }
