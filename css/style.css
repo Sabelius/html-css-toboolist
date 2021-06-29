@@ -44,3 +44,46 @@ h6{
     background-color: skyblue;
     padding: 2px;
 }
+.goals{
+    border: 1px solid palevioletred;
+    color: white;
+    border-radius: 10px;
+    background-color: palevioletred;
+    padding: 2px
+}
+.cross{
+    border:1px solid red;
+    font-size: 15px;
+    color: red;
+    border-radius: 10px;
+    padding: 2px;
+    display: inline;
+}
+.recruit{
+    border: 1px solid green;
+    color: white;
+    border-radius: 10px;
+    background-color: green;
+    padding: 2px
+}
+.mobile{
+    border: 1px solid orangered;
+    color: white;
+    border-radius: 10px;
+    background-color: orangered;
+    padding: 2px
+}
+.website{
+    border: 1px solid plum;
+    color: white;
+    border-radius: 10px;
+    background-color: plum;
+    padding: 2px
+}
+.sale{
+    border: 1px solid greenyellow;
+    color: white;
+    border-radius: 10px;
+    background-color: greenyellow;
+    padding: 2px
+}
